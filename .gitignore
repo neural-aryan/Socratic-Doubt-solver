@@ -1,0 +1,6 @@
+.env
+pr/
+__pycache__/
+*.pyc
+ans*.jpeg
+quest.jpeg
