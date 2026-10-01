@@ -31,3 +31,11 @@ dist-ssr
 
 # Claude Code
 .claude/
+
+# Upstream
+.env
+pr/
+__pycache__/
+*.pyc
+ans*.jpeg
+quest.jpeg
